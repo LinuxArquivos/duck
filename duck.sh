@@ -1,0 +1,1 @@
+echo url="https://www.duckdns.org/update?domains=srvkassio&token=d7b33305-be4e-4453-8e05-e19dccfa8348&ip=" | curl -k -o ~/duckdns/duck.log -K -
